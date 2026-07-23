@@ -1,0 +1,6 @@
+# Environment variables / Secrets
+.env
+
+# Ignore everything inside the audio directory, but keep the directory
+audio/*
+!audio/.gitkeep
